@@ -27,10 +27,4 @@ const appMenuItems = <MenuItems>[
     link: '/card',
     icon: Icons.credit_card,
   ),
-  MenuItems(
-    title: 'Botones',
-    subTitle: 'Varios botones en flutter',
-    link: '/buttons',
-    icon: Icons.smart_button_outlined,
-  ),
 ];
